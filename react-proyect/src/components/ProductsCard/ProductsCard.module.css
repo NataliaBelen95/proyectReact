@@ -1,0 +1,20 @@
+
+.containerProducts {
+    width: 100%;
+}
+
+.imgProduct {
+    width: 60%;
+    height: 70%;
+}
+
+
+.buttonBuyProduct {
+    width: 25px;
+    cursor: pointer;
+}
+
+.deleteButton {
+    width: 25px;
+    cursor: pointer;
+}

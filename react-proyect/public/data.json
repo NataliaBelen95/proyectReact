@@ -1,0 +1,89 @@
+
+{
+ "coffes" :
+[
+    {
+        "id":1,
+        "name":"expresso",
+        "img":"https://www.cafe-mx.com/blog/app/assets/media/2018/08/cafe-expreso.jpg"
+    },
+
+    { 
+        "id":2,
+        "name":"expresso",
+        "description":"",
+        "img":"https://www.cafe-mx.com/blog/app/assets/media/2018/08/cafe-expreso.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"Americano",
+        "description":"El café americano es un derivado del café expreso, aunque con una cantidad más alta de agua. Como resultado, se obtiene una bebida menos potente en cuanto a cafeína, más aguada, y, precisamente por ello, con un sabor menos amargo y más dulce. ",
+        "img":"https://img.freepik.com/fotos-premium/cafe-americano-clasico-leche-sobre-fondo-gris_112304-1304.jpg",
+        "price": "usd 20"
+        
+    
+    },
+    {
+        "id":4,
+        "name":"Largo",
+        "description":"El café lungo o largo se trata de un tipo de café en el que la extracción de agua en contacto con los granos de café molidos se realiza de manera más prolongada, lo que conlleva más cantidad de infusión.",
+        "img":"https://cdn2.incapto.com/wp-content/uploads/2020/08/Caf%C3%A9-largo.jpg"
+    },
+    {
+        "id":5,
+        "name":"Capuchino",
+        "description":"Un café cappuccino o capuchino se prepara con un café espresso y partes iguales de leche y crema o espuma de leche.",
+        "img":"https://cdn2.cocinadelirante.com/sites/default/files/images/2020/12/mezcla-para-capuchino.jpg"
+    },
+    {
+        "id":6,
+        "name":"Mocca",
+        "description":"Para la elaboración de este tipo de café, se utiliza sí o sí chocolate o cacao, ya sea en forma de sirope, ya sea en polvo. El café mocca parte de la elaboración tradicional del café con leche, rematando la preparación con ese sabor dulce.  ",
+        "img":"hhttps://cdn7.kiwilimon.com/recetaimagen/36987/640x960/46351.jpg.webp"
+    },
+    {
+        "id":7,
+        "name":"Café con Leche",
+        "description":"Para la preparación de un café con leche, utilizaremos una proporción muy semejante de leche y café, 50% / 50%, aproximadamente. En su elaboración, recuerda al café cortado, aunque con más cantidad de leche y café.",
+        "img":"https://media.istockphoto.com/id/505168330/es/foto/taza-de-caf%C3%A9-con-granos-de-caf%C3%A9-con-leche-y-varillas-de-canela.jpg?s=612x612&w=0&k=20&c=ud_g_RyWoPSEJ4_KkpsQfFuWh3iVPlyiTHqpu69ayEg="
+    }
+] ,
+
+"products":
+
+[
+    {
+        "id":1,
+        "name":"Café Tostado Honduras",
+        "description": "proceso: Lavado",
+        "img":"https://www.modobarista.com/product_images/e/531/Honduras__95052_zoom.png",
+        "price": "usd 20"
+    },
+
+    { 
+        "id":2,
+        "name":"Café en Grano",
+        "description": "Tante Sara",
+        "img":"https://acdn.mitiendanube.com/stores/001/203/846/products/cafe1-7a67ef0edb58ef036d16081330410749-1024-1024.jpg",
+        "price": "usd 30"
+
+    },
+    {
+        "id":3,
+        "name":"Café Verde",
+        "description":"",
+        "img":"https://acdn.mitiendanube.com/stores/914/913/products/3130011-e6a3232ff33f0c9bd815447235823181-640-0.jpg",
+        "price": "usd 20.5"
+    
+    },
+    {
+        "id":4,
+        "name":"expresso",
+        "img":"https://www.cafe-mx.com/blog/app/assets/media/2018/08/cafe-expreso.jpg",
+        "price": "usd 10.5"
+    }
+   
+]
+
+}
